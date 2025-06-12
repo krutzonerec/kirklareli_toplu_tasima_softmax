@@ -44,7 +44,7 @@ Ayrıca maliyet-fayda dengesi de ayrı bir analizde değerlendirilir.
 
 2. Python dosyasını çalıştır:
     ```bash
-    python kirklareli_toplu_tasima_softmax.py
+    python softmax.py
     ```
 
 ---
